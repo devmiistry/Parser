@@ -1,0 +1,41 @@
+Dev Mistry
+ linkedin.com/in/devmiistry/       devmistryy@gmail.com       647-838-7935
+EDUCATION
+University of Guelph  									                        Guelph, ON     
+Bachelor of Computer Engineering Co-op 							         Sept 2020 – Apr 2025
+
+WORK EXPERIENCE
+PointClickCare 											    Mississauga, ON
+Technical Support Specialist 						         Jan 2023 – Apr 2023; Sept 2024 – Dec 2024
+•	Managed 2000+ accounts across Active Directory, Azure, Exchange, Intune, and Jamf 
+•	Provided live technical support for 10+ events and board meetings, reducing audio/video downtime through proactive troubleshooting
+•	Conducted Agile testing and deployment for the company’s largest security project ensuring all devices accessing company resources comply with security standards
+•	Imaged and setup 200+ devices for deployment using Windows Autopilot for Windows 10 and 11, streamlining onboarding processes
+•	Resolved 300+ tier 1 & 2 software/hardware issues using ServiceNow for employees remotely and in office
+Upper Grand District School Board 									Guelph, ON
+IT Technical Assistant 									        May 2024 – Aug 2024
+•	Completed a large-scale device migration project across 72 schools, meeting a strict four-month deadline
+•	Managed 2600+ devices using Azure and Intune, ensuring seamless deployment and configuration
+•	Performed hardware repairs on Windows machines, including RAM replacements, power supply troubleshooting, and verifying internal connections
+•	Resolved boot errors by optimizing BIOS settings and system configurations, achieving a 90% success rate in troubleshooting.
+First National Financial LP										          Toronto, ON
+Helpdesk Support Specialist 									        May 2023 – Aug 2023
+•	Addressed 1000+ intricate software/hardware tickets involving phones, laptops, and other office equipment
+•	Collaborated in a 30-member team to provide technical support to internal and third-party employees
+•	Managed common problems with virtual machines and assisted with deployment of new machines
+•	Led an asset management project to collect and organizing data of 1200+ corporate devices and equipment
+
+PROJECTS
+Pollution Detection System | SolidWorks, PlatformIO
+•	Led a team of 4 to create a device to collect air and water parameters to monitor pollution
+•	Implemented ESP32 with wireless protocol (ESP-NOW) to allow for real time data monitoring
+Digital Photo Album | Arduino, PuTTY
+•	Created an interactive mini photo album using an Arduino UNO and a 3.6” TFT display
+•	Used TFT libraries to convert jpeg images to bitmap files and enable touch input to change the display photo
+Intruder Detection System | C, RTOS
+•	Utilized real-time operating systems principles to manage sensor detections and display captured images to microcontroller display
+•	Successfully validated the system design through comprehensive testing and precision standards
+
+TECHNICAL SKILLS
+Languages: C, Java, Python, ASM, VHDL, Verilog, MIPS
+Tools: Cadence, SolidWorks, MATLAB, PuTTY, VScode, GitHub, ServiceNow
