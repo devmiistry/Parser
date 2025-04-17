@@ -1,5 +1,5 @@
 # Parser
-A CLI based job description parser
+A CLI or LocalHost based job description parser and cover letter generator
 
 
 Run CLI: python main.py
